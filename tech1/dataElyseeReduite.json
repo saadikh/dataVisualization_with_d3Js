@@ -1,0 +1,442 @@
+{
+    "items": {
+        "item": [
+            {
+                "-id": "18957",
+                "date": "30/10/2018",
+                "title": "Conseil des ministres.",
+                "link": "http://www.elysee.fr/conseil-des-ministres-56/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "L'ordre du jour",
+                            "reference": {
+                                "-type": "CdM",
+                                "link": "http://www.elysee.fr/conseils-des-ministres/article/ordre-du-jour-du-conseil-des-ministres-du-mardi-30-octobre-201/",
+                                "title": "Ordre du jour du Conseil des ministres du mardi 30 octobre 2018",
+                                "description": "<p>Pour le Conseil des ministres du mardi 30 octobre 2018, le Pr&eacute;sident de la R&eacute;publique a arr&ecirc;t&eacute; l&rsquo;ordre du jour suivant (partie A)&nbsp;</p>",
+                                "content": "" }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "Le compte-rendu",
+                            "reference": {
+                                "-type": "CdM",
+                                "link": "http://www.elysee.fr/conseils-des-ministres/article/compte-rendu-du-conseil-des-ministres-du-mardi-30-octobre-201/",
+                                "title": "Compte-rendu du Conseil des ministres du mardi 30 octobre 2018",
+                                "content": "" }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18954",
+                "date": "29/10/2018",
+                "title": "Entretien, suivi d’une déclaration conjointe à la presse, avec M. Abiy AHMED, Premier ministre de la République fédérale démocratique d’Ethiopie.",
+                "image": "http://www.elysee.fr/assets/Uploads/456204448411644fec1deo.jpg",
+                "link": "http://www.elysee.fr/entretien-suivi-d-une-d-claration-conjointe-la-presse-avec-m-abiy-ahmed-premier-ministre-de-la-r-publique-f-d-rale-d-mocratique-d-ethiopie-/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "déclaration conjointe ",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/declaration-conjointe-entre-le-president-de-la-republique-francaise-et-le-premier-ministre-de-la-republique-federale-democratique-d-ethiopie-relative-a-un-partenariat-privilegie-entre-la-france-et-l-ethiopie/",
+                                "title": "Déclaration conjointe  entre le Président de la République française et le Premier Ministre de la République fédérale démocratique d’Ethiopie relative à un partenariat privilégié entre la France et l’Ethiopie",
+                                "content":""  }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "la déclaration",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/declaration-conjointe-du-president-de-la-republique-et-du-premier-ministre-d-ethiopie/",
+                                "title": "Déclaration conjointe du Président de la République et du Premier ministre d'Ethiopie",
+                                "content": ""
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/declaration-conjointe-du-president-de-la-republique-emmanuel-macron-et-de-abiy-ahmed-premier-ministre-de-la-republique-federale-democratique-d-ethiopie/",
+                                "title": "Déclaration conjointe du Président de la République, Emmanuel Macron, Et de Abiy AHMED, Premier ministre de la République fédérale démocratique d’Ethiopie",
+                                "image": "http://www.elysee.fr/assets/Uploads/456204448411644fec1deo.jpg"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18936",
+                "date": "27/10/2018",
+                "title": "Sommet consacré à la situation en Syrie avec la République de Turquie, la République fédérale d'Allemagne et la Fédération de Russie. Istanbul",
+                "image": "http://www.elysee.fr/assets/Uploads/unnamed-3.jpg",
+                "link": "http://www.elysee.fr/sommet-consacr-la-situation-en-syrie-avec-la-r-publique-de-turquie-la-r-publique-f-d-rale-d-allemagne-et-la-f-d-ration-de-russie-istanbul/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/conference-de-presse-quadripartite-sommet-sur-la-syrie-a-istanbul/",
+                                "title": "Conférence de presse quadripartite – Sommet sur la Syrie à Istanbul",
+                                "image": "http://www.elysee.fr/assets/Uploads/unnamed-3.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La transcription",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/transcription-de-la-conference-de-presse-du-president-de-la-republique-au-sommet-sur-la-syrie/",
+                                "title": "Transcription de la conférence de presse du Président de la République au Sommet sur la Syrie",
+                                "content": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18935",
+                "date": "26/10/2018",
+                "title": "Déplacement en République Tchèque et en République Slovaque.",
+                "image": "http://www.elysee.fr/assets/Uploads/unnamed2.jpg",
+                "link": "http://www.elysee.fr/d-placement-en-r-publique-tch-que-et-en-r-publique-slovaque-/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/declaration-conjointe-d-emmanuel-macron-avec-andrej-kiska-president-de-la-republique-slovaque/",
+                                "title": "Déclaration conjointe d'Emmanuel Macron avec Andrej Kiska, Président de la République slovaque",
+                                "image": "http://www.elysee.fr/assets/Uploads/unnamed2.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/new-video-412/",
+                                "title": "Consultation citoyenne sur l'Europe à Bratislava avec Peter Pellegrini ",
+                                "image": "http://www.elysee.fr/assets/Uploads/4484860195490db168f19o3.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La transcription",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/transcription-de-la-conference-de-presse-du-president-de-la-republique-avec-le-premier-ministre-slovaque/",
+                                "title": "Transcription de la conférence de presse du Président de la République avec le Premier ministre slovaque",
+                                "content":""
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La transcription ",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/transcription-de-la-conference-de-presse-des-presidents-emmanuel-macron-et-andrej-kiska/",
+                                "title": "Transcription de la Conférence de presse des Présidents Emmanuel Macron et Andrej Kiska",
+                                "content": ""
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La transcription",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/transcription-de-la-conference-de-presse-conjointe-du-president-de-la-republique-avec-le-premier-ministre-tcheque/",
+                                "title": "Transcription de la conférence de presse conjointe du Président de la République avec le Premier ministre Tchèque",
+                                "content": ""
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/declaration-conjointe-du-president-de-la-republique-emmanuel-macron-et-de-peter-pellegrini-premier-ministre-slovaque/",
+                                "title": "Déclaration conjointe du Président de la République, Emmanuel Macron, et de Peter Pellegrini, Premier ministre Slovaque",
+                                "image": "http://www.elysee.fr/assets/Uploads/unnamed-1.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/new-video-411/",
+                                "title": "Déclaration conjointe du Président de la République, Emmanuel Macron, et de Andrej Babiš, Premier ministre Tchèque",
+                                "image": "http://www.elysee.fr/assets/Uploads/3063223871703daf50cceb.jpg"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18932",
+                "date": "22/10/2018",
+                "title": "Déplacement dans l’Aude.",
+                "image": "http://www.elysee.fr/assets/Uploads/45500450581b9624cb0b6b.jpg",
+                "link": "http://www.elysee.fr/d-placement-dans-l-aude-/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/discours-du-president-de-la-republique-emmanuel-macron-dans-l-aude/",
+                                "title": "Discours du Président de la République Emmanuel Macron dans l’Aude ",
+                                "image": "http://www.elysee.fr/assets/Uploads/45500450581b9624cb0b6b.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La transcription ",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/transcription-du-discours-du-president-de-la-republique-a-trebes/",
+                                "title": "Transcription du discours du Président de la République à Trèbes",
+                                "content": ""
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18911",
+                "date": "17/10/2018",
+                "title": "Conseil européen.",
+                "image": "http://www.elysee.fr/assets/Uploads/2018-10-17-19.35.05.jpg",
+                "link": "http://www.elysee.fr/conseil-europ-en-/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo d'arrivée",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/new-video-407/",
+                                "title": "Déclaration du Président de la République Emmanuel Macron à son arrivée au Conseil européen",
+                                "image": "http://www.elysee.fr/assets/Uploads/2018-10-17-19.35.05.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/new-video-409/",
+                                "title": "Conférence de presse du Président de la République au Conseil européen",
+                                "image": "http://www.elysee.fr/assets/Uploads/3048658290743d8d7a124b.jpg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La transcription",
+                            "reference": {
+                                "-type": "Declaration",
+                                "link": "http://www.elysee.fr/declarations/article/transcription-de-la-conference-de-presse-du-president-de-la-republique-au-conseil-europeen/",
+                                "title": "Transcription de la conférence de presse du Président de la République au Conseil européen",
+                                "content":""  }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18910",
+                "date": "17/10/2018",
+                "title": "Déjeuner, suivi d’une conférence de presse avec M. Shinzo ABE, Premier ministre du Japon.",
+                "image": "http://www.elysee.fr/assets/Uploads/453334139329e7e409355b.jpg",
+                "link": "http://www.elysee.fr/d-jeuner-suivi-d-une-conf-rence-de-presse-avec-m-shinzo-abe-premier-ministre-du-japon-/",
+                "type": "elysee",
+                "items": {
+                    "item": {
+                        "-type": "Page",
+                        "title": "La vidéo",
+                        "reference": {
+                            "-type": "Video",
+                            "link": "http://www.elysee.fr/videos/new-video-406/",
+                            "title": "Déclaration d'Emmanuel Macron et de Shinzo Abe, Premier ministre du Japon",
+                            "image": "http://www.elysee.fr/assets/Uploads/453334139329e7e409355b.jpg"
+                        }
+                    }
+                }
+            },
+            {
+                "-id": "18909",
+                "date": "17/10/2018",
+                "title": "Conseil des ministres.",
+                "image": "http://www.elysee.fr/assets/Uploads/18-10-24-griveaux2.jpeg",
+                "link": "http://www.elysee.fr/conseil-des-ministres-55/",
+                "type": "elysee",
+                "items": {
+                    "item": [
+                        {
+                            "-type": "Page",
+                            "title": "vidéo ",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/new-video-410/",
+                                "title": "Compte-rendu du Conseil des ministres du mercredi 24 octobre 2018.",
+                                "image": "http://www.elysee.fr/assets/Uploads/18-10-24-griveaux2.jpeg"
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "Le compte-rendu ",
+                            "reference": {
+                                "-type": "CdM",
+                                "link": "http://www.elysee.fr/conseils-des-ministres/article/compte-rendu-du-conseil-des-ministres-du-mercredi-24-octobre-201/",
+                                "title": "Compte-rendu du Conseil des ministres du mercredi 24 octobre 2018",
+                                "content":""  }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "L'ordre du jour",
+                            "reference": {
+                                "-type": "CdM",
+                                "link": "http://www.elysee.fr/conseils-des-ministres/article/ordre-du-jour-du-conseil-des-ministres-du-mercredi-17-octobre-201/",
+                                "title": "Ordre du jour du Conseil des ministres du mercredi 17 octobre 2018",
+                                "description": "<p>Pour le Conseil des ministres du <b>mercredi 17 octobre 2018</b>, le Président de la République a arrêté l&rsquo;ordre du jour suivant (parties A et C) :</p>",
+                                "content": ""
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "Le compte-rendu",
+                            "reference": {
+                                "-type": "CdM",
+                                "link": "http://www.elysee.fr/conseils-des-ministres/article/compte-rendu-du-conseil-des-ministres-du-mercredi-17-octobre-201/",
+                                "title": "Compte-rendu du Conseil des ministres du mercredi 17 octobre 2018",
+                                "content": ""
+                            }
+                        },
+                        {
+                            "-type": "Page",
+                            "title": "La vidéo",
+                            "reference": {
+                                "-type": "Video",
+                                "link": "http://www.elysee.fr/videos/new-video-408/",
+                                "title": "Compte-rendu du Conseil des ministres du mercredi 17 octobre 2018"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "-id": "18908",
+                "date": "16/10/2018",
+                "title": "Visite de l’exposition « Cités millénaires » à l'Institut du Monde arabe.",
+                "image": "http://www.elysee.fr/assets/Uploads/314946798882b53cf0aaeb.jpg",
+                "link": "http://www.elysee.fr/visite-de-l-exposition-cit-s-mill-naires-l-institut-du-monde-arabe-/",
+                "type": "elysee",
+                "items": {
+                    "item": {
+                        "-type": "Page",
+                        "title": "La vidéo",
+                        "reference": {
+                            "-type": "Video",
+                            "link": "http://www.elysee.fr/videos/new-video-405/",
+                            "title": "Discours du Président de la République Emmanuel Macron à l'Institut du Monde Arabe à l'occasion de l'exposition \"Cités millénaires\"",
+                            "image": "http://www.elysee.fr/assets/Uploads/314946798882b53cf0aaeb.jpg"
+                        }
+                    }
+                }
+            },
+            {
+                "-id": "18907",
+                "date": "15/10/2018",
+                "title": "Dîner d'Etat offert en l'honneur de M. MOON Jae-in, Président de la République de Corée, et de Mme KIM Jung-Sook.",
+                "link": "http://www.elysee.fr/d-ner-d-etat-offert-en-l-honneur-de-m-moon-jae-in-pr-sident-de-la-r-publique-de-cor-e-et-de-mme-kim-jung-sook-/",
+                "type": "elysee",
+                "items": {
+                    "item": {
+                        "-type": "Page",
+                        "title": "La déclaration conjointe",
+                        "reference": {
+                            "-type": "Declaration",
+                            "link": "http://www.elysee.fr/declarations/article/declaration-conjointe-sommet-entre-la-france-et-la-republique-de-coree/",
+                            "title": "Déclaration conjointe - Sommet entre la France et la République de Corée",
+                            "content": ""  }
+                    }
+                }
+            },
+            {
+                "-id": "18906",
+                "date": "15/10/2018",
+                "title": "Entretien, suivi d’une conférence de presse avec M. MOON Jae-in, Président de la République de Corée à l’occasion de sa visite d’Etat en France.",
+                "image": "http://www.elysee.fr/assets/Uploads/43526064550c7254661c0o3.jpg",
+                "link": "http://www.elysee.fr/entretien-suivi-d-une-conf-rence-de-presse-avec-m-moon-jae-in-pr-sident-de-la-r-publique-de-cor-e-l-occasion-de-sa-visite-d-etat-en-france-/",
+                "type": "elysee",
+                "items": {
+                    "item": {
+                        "-type": "Page",
+                        "title": "La vidéo de la conférence de presse",
+                        "reference": {
+                            "-type": "Video",
+                            "link": "http://www.elysee.fr/videos/declaration-conjointe-du-president-de-la-republique-emmanuel-macron-et-de-moon-jae-in-president-de-la-republique-de-coree/",
+                            "title": "Conférence de presse conjointe du Président de la République, Emmanuel Macron et de Moon Jae-in, Président de la République de Corée",
+                            "image": "http://www.elysee.fr/assets/Uploads/43526064550c7254661c0o3.jpg"
+                        }
+                    }
+                }
+            },
+            {
+                "-id": "18899",
+                "date": "12/10/2018",
+                "title": "Déplacement en République d’Arménie dans le cadre du XVIIème Sommet de la Francophonie. Erevan",
+                "image": "http://www.elysee.fr/assets/Uploads/AZNAVOUR2.jpg",
+                "link": "http://www.elysee.fr/d-placement-en-r-publique-d-arm-nie-dans-le-cadre-du-xvii-me-sommet-de-la-francophonie-erevan-3/",
+                "type": "elysee",
+                "items": {
+                    "item": {
+                        "-type": "Page",
+                        "title": "vidéo ",
+                        "reference": {
+                            "-type": "Video",
+                            "link": "http://www.elysee.fr/videos/new-video-403/",
+                            "title": "Discours à la Maison Charles Aznavour de Erevan ",
+                            "image": "http://www.elysee.fr/assets/Uploads/AZNAVOUR2.jpg"
+                        }
+                    }
+                }
+            },
+            {
+                "-id": "18897",
+                "date": "10/10/2018",
+                "title": "Déplacement en République d’Arménie dans le cadre du XVIIème Sommet de la Francophonie. Erevan",
+                "link": "http://www.elysee.fr/d-placement-en-r-publique-d-arm-nie-dans-le-cadre-du-xvii-me-sommet-de-la-francophonie-erevan/",
+                "type": "elysee",
+                "items": {
+                    "item": {
+                        "-type": "Page",
+                        "title": "Le discours",
+                        "reference": {
+                            "-type": "Declaration",
+                            "link": "http://www.elysee.fr/declarations/article/discours-du-president-de-la-republique-au-17eme-sommet-de-la-francophonie/",
+                            "title": "Discours du Président de la République au 17ème sommet de la Francophonie",
+                            "content": ""
+                        }
+                    }
+                }
+            } 
+            ]
+        }
+    }
