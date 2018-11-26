@@ -1,0 +1,9 @@
+svg {
+  font: 10px sans-serif;
+}
+
+.x.axis .domain {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}

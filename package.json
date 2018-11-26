@@ -1,0 +1,23 @@
+{
+  "name": "datavisualization_with_d3js",
+  "version": "1.0.0",
+  "description": "Ce projet a pour but de visualiser les données chronologiques de l'Elysee durant le 10/2018. Il s'inscrit dans le cadre de notre master 2 MBDS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadikh/dataVisualization_with_d3Js.git"
+  },
+  "author": "Issoufi ADAM <issoufi.adam1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadikh/dataVisualization_with_d3Js/issues"
+  },
+  "homepage": "https://github.com/saadikh/dataVisualization_with_d3Js#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
