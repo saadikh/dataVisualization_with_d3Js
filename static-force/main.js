@@ -19,7 +19,7 @@ d3.json("dataElyseeReduite.json", function (jsonObject) {
 
     return {
       value: item.date,
-      size: nombreDeReference
+      size: nombreDeReference * 20
     };
   });
 
@@ -58,7 +58,7 @@ d3.json("dataElyseeReduite.json", function (jsonObject) {
       // Set the node's gravitational centerpoint.
       idealcx: x(new Date(node.value).getDate()),
       idealcy: height / 2,
-      x: x(new Date(node.value).getDate()),
+      x: x(node.size),
       // Add some randomization to the placement;
       // nodes stacked on the same point can produce NaN errors.
       y: height / 2 + Math.random()
